@@ -1,0 +1,19 @@
+{
+  "name": "image-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.29.1",
+    "express": "^4.18.1",
+    "mongoose": "^5.13.14",
+    "multer": "^1.4.4"
+  }
+}
